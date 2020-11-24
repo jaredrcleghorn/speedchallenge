@@ -2,7 +2,7 @@
 
 ## Installation
 
-You will need [Python](https://www.python.org/) 3.9 and
+You will need [Python](https://www.python.org/) 3.8 and
 [Pipenv](https://pipenv.pypa.io/en/latest/). To install dependencies, move into
 the project folder and run
 
